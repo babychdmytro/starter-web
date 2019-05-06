@@ -15,6 +15,8 @@ There is some more text for deployment
 
 ## How To Contribute
 
+this is how to contribute
+
 ### Copyright
 
 2019. git training 
