@@ -21,5 +21,5 @@ this is how to contribute
 
 ### Copyright
 
-2019. git training 
+2019. git training. All Rights Reserved
 
