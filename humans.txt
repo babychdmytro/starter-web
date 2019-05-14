@@ -6,7 +6,6 @@
     <name> -- <role> -- <twitter>
 
 	Dmytro Babych
-
 # THANKS
 
     Thanks to everyone
@@ -14,5 +13,6 @@
 
 # TECHNOLOGY COLOPHON
 
+	Java
     HTML5, CSS3
     jQuery, Modernizr
